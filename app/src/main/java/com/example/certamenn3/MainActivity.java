@@ -21,7 +21,9 @@ import android.widget.Toast;
 //ArrayAdapterAdapter = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item,opcion);
 //estante.setAdapter(Adapter);
 
-
+//moto honda
+//me gustan las motos
+//manifisto una moto
 public class MainActivity extends AppCompatActivity {
     EditText Codigo, Nombre, Precio;
 
